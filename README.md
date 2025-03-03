@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Just another self taught dev out here mobbing on the interwebs, hacking and building stuff!
 <!--
 **Comosaycomosah/Comosaycomosah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
